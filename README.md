@@ -8,3 +8,5 @@
 - CSS
 
 <p>O desafio no final do vídeo era para colocar a imagem da onda de fundo azul claro na tela. E como vocês podem ver, consegui!</p>
+
+![readme.png](assets/images/readme.png)
